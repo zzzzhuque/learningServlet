@@ -64,3 +64,7 @@ tomcat配置：https://www.bilibili.com/video/BV1gJ411q7Lf
 上述功能已全部完成，在IDEA中直接运行即可看到登录界面并使用相关功能
 
 ![信息系统管理界面](img/login.jpg)
+
+**to do list**
+
+- [ ] 完成功能需求部分的说明文档
