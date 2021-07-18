@@ -72,6 +72,7 @@
     </div>
     <%
         }
+        request.removeAttribute("flag");
     %>
 
     <%
